@@ -10,4 +10,3 @@ Feature A
 Feature B
 这是clone文件夹的修改
 "同事的新更新"
-"这是一个错误的提交"
